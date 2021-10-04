@@ -103,4 +103,5 @@ const mapDispatchToProps = dispatch => ({
 // })
 
 // const mapDispatchToProps = dispatch => ({
-//    CollectionMap: 
+//    CollectionMap: collection => dispatch(CollectionMap(collection))
+//  });
